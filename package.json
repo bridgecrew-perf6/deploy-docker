@@ -1,0 +1,23 @@
+{
+  "name": "deploy-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve-handler.js",
+  "scripts": {
+    "start": "serve . -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiumubai/deploy-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiumubai/deploy-docker/issues"
+  },
+  "homepage": "https://github.com/xiumubai/deploy-docker#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
